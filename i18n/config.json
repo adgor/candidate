@@ -1,0 +1,18 @@
+[
+  {
+    "code": "sq",
+    "hrefLang": "sq-AL",
+    "name": "Albanian",
+    "localName": "Shqip",
+    "langDir": "ltr",
+    "dateFormat": "DD/MM/YYYY"
+  },
+  {
+    "code": "en",
+    "hrefLang": "en-US",
+    "name": "English",
+    "localName": "English",
+    "langDir": "ltr",
+    "dateFormat": "MM/DD/YYYY"
+  }
+]
